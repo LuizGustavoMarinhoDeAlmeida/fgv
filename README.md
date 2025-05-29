@@ -1,8 +1,5 @@
 # FGV
 
-Este é meu primeiro commit
+A DEMONSTRAÇÃO COM OS ALUNOS DEU CERTO!!!!
 
-Esse é meu primeiro FORK.
-
-Eu estou atualizando este arquivo na minha branch feature. 
-
+APRENDEMOS GIT!!! :tada: :tada: :tada:
