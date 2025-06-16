@@ -1,4 +1,17 @@
-def divisao(a: float, b:float) -> float:
+def divisao(a: float, b: float) -> float:
+    """
+    Realiza a divisão de dois números.
+
+    Args:
+        a (float): Dividendo.
+        b (float): Divisor.
+
+    Raises:
+        ZeroDivisionError: Se b for zero.
+
+    Returns:
+        float: Quociente de a por b.
+    """
     if b == 0:
         raise ZeroDivisionError("Divisão por zero não é permitida.")
     return a / b
