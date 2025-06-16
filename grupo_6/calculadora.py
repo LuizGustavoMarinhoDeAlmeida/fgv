@@ -62,5 +62,6 @@ def divisao(a: float, b: float) -> float:
 
 if __name__ == "__main__":
     print("5 + 2 =", adicao(5, 2))
-	print("5 / 2 = ", divisao(5, 2))
-        print("5 - 2 =", subtracao(5, 2))
+    print("5 / 2 = ", divisao(5, 2))
+    print("5 - 2 =", subtracao(5, 2))
+    print("5 / 2 =", divisao(5, 2))
