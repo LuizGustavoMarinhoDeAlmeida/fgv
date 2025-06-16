@@ -1,3 +1,18 @@
+def subtracao(a: float, b: float) -> float:
+    """
+    Realiza a subtração de dois números.
+
+    Args:
+        a (float): Minuendo.
+        b (float): Subtraendo.
+
+    Returns:
+        float: Resultado da diferença entre a e b.
+    """
+    return a - b
+
+
+
 def adicao(a: float, b: float) -> float:
     """
     Criado poa Alex
@@ -35,3 +50,4 @@ def divisao(a: float, b: float) -> float:
 if __name__ == "__main__":
     print("5 + 2 =", adicao(5, 2))
 	print("5 / 2 = ", divisao(5, 2))
+        print("5 - 2 =", subtracao(5, 2))
