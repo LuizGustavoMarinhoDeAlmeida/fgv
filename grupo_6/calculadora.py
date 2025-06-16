@@ -1,6 +1,7 @@
 def divisao(a: float, b: float) -> float:
     """
     Realiza a divisão de dois números.
+    Criado pelo Luiz Gustavo - a58495398
 
     Args:
         a (float): Dividendo.
